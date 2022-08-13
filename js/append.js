@@ -38,7 +38,7 @@ section.appendChild(ul);
 mainContainer.appendChild(section)
 
 // set innerHTML directly 
-
+ 
 const lastSection = document.createElement('section');
 lastSection.innerHTML = `
         <h1>Challenging Module</h1>

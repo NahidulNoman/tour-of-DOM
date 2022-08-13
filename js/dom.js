@@ -1,7 +1,7 @@
 const allHeading = document.getElementsByTagName('h1');
 
         for(const h1 of allHeading){
-            // console.log(h1.innerText)
+            // console.log(h1.innerText) 
         }
 
         const allListing = document.getElementsByTagName('li');

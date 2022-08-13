@@ -10,4 +10,4 @@ const ourVillages = document.getElementById('village');
 ourVillages.style.backgroundColor = 'black';
 
 const heading = document.getElementById('header');
-heading.classList.add('text-center')
+heading.classList.add('text-center') 
