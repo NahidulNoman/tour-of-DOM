@@ -6,6 +6,7 @@ for(let section of sections){
     section.style.padding = '10px';
     section.style.backgroundColor = 'silver'
 }
+
 const ourVillages = document.getElementById('village');
 ourVillages.style.backgroundColor = 'black';
 
